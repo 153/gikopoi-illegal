@@ -17,6 +17,8 @@ face rejection, pending revisions or further discussion.
 ## Characters:
 * shii_islam -- a Shii depicted in traditional female Islamic dress
 * giko_islam -- a Giko depicted in traditional male Islamic dress
+* giko_batman -- a Giko devoted to fighting crime and wicked ones 
+* giko_hungover -- a Giko who's spent too much time at the bars
 * mitsugiko -- a Giko who is a honeybee character!
 
 ## Developer chat
