@@ -14,5 +14,6 @@
   * static/styles/main.css -> #character-selection
 * Spawn in the train (densha) instead of admin_st
   * static/scripts/main.js
+  * rooms.ts -> `worldSpawns: [{x: 1, y: 9, direction: "down", target: null}, ],`
 * Make Underground Town (basement) also forced anon
   * rooms.ts
