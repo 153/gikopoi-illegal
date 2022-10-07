@@ -4,6 +4,7 @@
   * static/scripts/main.js
 * Remove Japan server, change `<title>`
   * static/index.html
+  * static/scripts/main.js
 * Add custom characters, no secret characters
   * static/characters/
   * static/scripts/character.js
