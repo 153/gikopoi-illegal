@@ -1,4 +1,4 @@
-* Change stream slots to "0" everywhere
+* Change stream slots to "0" everywhere, but "10" to train
   * rooms.ts
 * Make Underground Town (basement) also forced anon
   * rooms.ts
@@ -14,8 +14,6 @@
   * static/characters/
   * static/scripts/character.js
   * index.ts -> `const extension = characterId == "funkynaito" || characterId == "molgiko" ? "png" : "svg"`
-* Update "maximumUsersPerIpPerArea" variable
-  * index.ts
 * Saying `#bee` turns you into a bee:
   * index.ts
 * Make character layout a grid: 
