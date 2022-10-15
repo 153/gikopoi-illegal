@@ -1,5 +1,7 @@
 # Gikopoi: Illegal
-A far-right extremist known only as "maf" has seen to it that
+https://play.gikopoi.com
+
+A far-right extremist known only as [redacted] has seen to it that
 certain contributions to the Gikopoi community repo are rejected
 for political & religious reasons. In the spirit of freedom,
 creative expression, love, and community, the Gikopoipoipoipoi
@@ -7,10 +9,12 @@ creative expression, love, and community, the Gikopoipoipoipoi
 are given a safe space.
 
 If you are an artist who has similarly faced discrimination at
-the hands of "maf", worry no more -- we will accept nearly all
+the hands of [redacted], worry no more -- we will accept nearly all
 contributions. However, characters that go against one of our
 values (freedom, creative expression, love, and community) may
 face rejection, pending revisions or further discussion.
+
+See also: [Changes](changes.md)
 
 ![](family.png)
 
