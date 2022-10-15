@@ -1,5 +1,7 @@
 * Change stream slots to "0" everywhere, but "10" to train
   * rooms.ts
+* Hide "select stream" box
+  * index.html
 * Make Underground Town (basement) also forced anon
   * rooms.ts
 * Spawn in the train (densha) instead of admin_st
