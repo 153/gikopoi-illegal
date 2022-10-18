@@ -20,3 +20,5 @@
   * index.ts
 * Make character layout a grid: 
   * static/styles/main.css -> #character-selection
+* Added `#train` and `#die` commands: [for more details](die-command-patch.ts)
+* Changed login-footer to appear in static and updated index.ts code that loads login-footer. 
