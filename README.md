@@ -14,7 +14,7 @@ contributions. However, characters that go against one of our
 values (freedom, creative expression, love, and community) may
 face rejection, pending revisions or further discussion.
 
-See also: [Changes](changes.md)
+See also: [Changes](CHANGES.md)
 
 ![](family.png)
 
